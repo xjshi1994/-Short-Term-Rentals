@@ -14,5 +14,5 @@
   </p>
   <p>As far as I know, currently there is no such specific platform for those people. Usually they go to the local bbs or wechat group
   to spread the rental house information or find the house. But For tenures, it is not easy to find the appropriate house, you have to check the
-  house by clicking the url one by one to check. For landlord, it is always hard to combine several tenures to let vacant day as less as possible.
+  house information by clicking the url one by one. For landlord, it is always hard to combine several tenures to let vacant day as less as possible and it is tedious and complexput to write advertisement about the house.
   So My websites focuses on solving these problems, to help poeple to lend out or rent the house easier.</p>
